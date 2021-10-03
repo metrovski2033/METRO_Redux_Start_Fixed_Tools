@@ -1,0 +1,2 @@
+# METRO_Redux_Start_Fixed_Tools
+日本語IMEでMETRO2033/LastLight Reduxを起動した時に、IME(CTFローダー)が暴走しCPU使用率が高騰する問題を回避するツール
