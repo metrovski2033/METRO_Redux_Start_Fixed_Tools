@@ -1,5 +1,5 @@
 # METRO_Redux_Start_Fixed_Tools
-ツール名：METRORedux_IME問題回避ツール
+ツール名：METRORedux_IME問題回避ツール  
 製作者：メトロスキー
 
 ## 概要
